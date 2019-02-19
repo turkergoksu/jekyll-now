@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BitcoinPriceTracker - Android - Java
+title: BitcoinPriceTracker
 ---
 #### Android - Java
 
