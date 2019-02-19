@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StreamClips - Android - Java
+title: StreamClips
 ---
 #### Android - Java
 
