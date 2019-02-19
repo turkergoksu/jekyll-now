@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WeatherForecast - Android - Java
+title: WeatherForecast
 ---
 #### Android - Java
 
