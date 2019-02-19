@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cookie Clicker - Android - Java
+title: Cookie Clicker
 ---
 #### Android - Java
 
