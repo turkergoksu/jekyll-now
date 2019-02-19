@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magic8Ball - Android - Java
+title: Magic8Ball
 ---
 #### Android - Java
 
